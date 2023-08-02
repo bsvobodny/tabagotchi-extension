@@ -1,7 +1,7 @@
 import { defineManifest } from '@crxjs/vite-plugin'
 
 export default defineManifest({
-  name: 'create-chrome-ext',
+  name: 'Tabagotchi-extension',
   description: '',
   version: '0.0.0',
   manifest_version: 3,
@@ -19,6 +19,9 @@ export default defineManifest({
   background: {
     service_worker: 'src/background/index.ts',
     type: 'module',
+  },
+  chrome_url_overrides: {
+    newtab: 'newtab.html',
   },
   content_scripts: [
     {
