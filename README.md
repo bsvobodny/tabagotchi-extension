@@ -41,6 +41,11 @@ Now, the content of `build` folder will be the extension ready to be submitted t
 
 
 ## Collaborators
-@xyam
-@bsvobodny
+
+<a href="https://github.com/xyam">
+    <img src="https://avatars.githubusercontent.com/u/32527058?v=4?s=100" width="100px;" alt="Maxime Sanchez"/> 
+</a
+<a href="https://github.com/bsvobodny">
+    <img src="https://avatars.githubusercontent.com/u/14125410?v=4?s=100" width="100px;" alt="Benjamin Svobodny"/> 
+</a>
 
