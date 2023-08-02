@@ -1,4 +1,4 @@
-import globSync from 'glob';
+import { globSync } from 'glob';
 
 const pages = await globSync('pages/*.html')
 
