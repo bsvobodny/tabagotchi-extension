@@ -1,1 +1,8 @@
-# tabagotchi-extension pre-alpha
+# tabagotchi-extension 
+
+## Collaborators
+@xyam
+@bsvobodny
+
+### Version
+pre-alpha
