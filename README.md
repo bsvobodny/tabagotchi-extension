@@ -1,1 +1,1 @@
-# tabagotchi-extension
+# tabagotchi-extension pre-alpha
