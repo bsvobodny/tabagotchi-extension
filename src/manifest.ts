@@ -20,6 +20,9 @@ export default defineManifest({
     service_worker: 'src/background/index.ts',
     type: 'module',
   },
+  chrome_url_overrides: {
+    newtab: 'newtab.html',
+  },
   content_scripts: [
     {
       matches: ['http://*/*', 'https://*/*'],
